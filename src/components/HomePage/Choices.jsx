@@ -16,7 +16,6 @@ const Choices = () => {
           <h3>{t("title-choice")} ...</h3>
           {data.map((e) => (
             <Link to={"/video/" + e.id} key={"choice-" + e.id}>
-              {console.log(e.Rating)}
               <img
                 src={
                   e.Poster !== undefined

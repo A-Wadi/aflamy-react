@@ -3,7 +3,6 @@ import { NavLink } from "react-router-dom";
 import i18n from "./../../translate/i18next";
 import { useTranslation } from "react-i18next";
 import { useState } from "react";
-import { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch, faBars } from "@fortawesome/free-solid-svg-icons";
 import Loading from "../common/Loading";
@@ -72,14 +71,14 @@ export const Nav = () => {
                 </span>
               )}
             </div>
-            <form>
+            {/* <form>
               <div className="boxSearch">
                 <input type="text" placeholder={t("nav-input-search")} />
                 <button type="submit">
                   <FontAwesomeIcon icon={faSearch} />
                 </button>
               </div>
-            </form>
+            </form> */}
           </div>
         </div>
       </nav>

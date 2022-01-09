@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import Login from "./components/Login";
 import Dashboard from "./components/Dashboard";
 import AppLayout from "./layouts/AppLayout";
-import { BrowserRouter, Route } from "react-router-dom";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 import LoginLayout from "./layouts/LoginLayout";
 import { connect } from "react-redux";
 import { add, minus, addAllData } from "./redux/actions/action.js";
@@ -16,6 +16,7 @@ import Loading from "./components/common/Loading";
 import DashboardLayout from "./layouts/DashboardLayout";
 import VideoLayout from "./layouts/VideoLayout";
 import Video from "./components/Video";
+import NotFound from "./components/NotFound";
 
 const AppRoute = ({ component: Component, layout: Layout, ...rest }) => (
   <Route
@@ -66,16 +67,19 @@ function App(props) {
         </div>
       )}
 
-      <BrowserRouter>
-        <AppRoute exact path="/" layout={AppLayout} component={Home} />
-        <AppRoute
-          exact
-          path="/dashboard"
-          layout={DashboardLayout}
-          component={Dashboard}
-        />
-        <AppRoute path="/login" layout={LoginLayout} component={Login} />
-        <AppRoute path="/video/:id" layout={VideoLayout} component={Video} />
+      <BrowserRouter basename="/aflamy-react">
+        <Switch>
+          <AppRoute exact path="/" layout={AppLayout} component={Home} />
+          <AppRoute
+            exact
+            path="/dashboard"
+            layout={DashboardLayout}
+            component={Dashboard}
+          />
+          <AppRoute path="/login" layout={LoginLayout} component={Login} />
+          <AppRoute path="/video/:id" layout={VideoLayout} component={Video} />
+          <Route component={NotFound} />
+        </Switch>
       </BrowserRouter>
     </React.Fragment>
   );

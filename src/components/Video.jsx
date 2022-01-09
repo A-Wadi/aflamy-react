@@ -6,7 +6,6 @@ import { useTranslation } from "react-i18next";
 import { faPause, faPlay } from "@fortawesome/free-solid-svg-icons";
 
 const Video = (props) => {
-  console.log(props);
   const { t, i18n } = useTranslation();
   const [modeVideo, setModeVideo] = useState(false);
   const currentVideo = useRef(null);
