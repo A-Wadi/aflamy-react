@@ -1,0 +1,15 @@
+{
+    "nav-home": "Home",
+    "nav-aflam": "Aflam",
+    "nav-serials": "Serials",
+    "nav-sport": "Sport",
+    "nav-islamic": "Islamic",
+    "nav-anime": "Anime",
+    "nav-input-search": "Search",
+    "nav-lang": "Arabic",
+    "error-get-data": "There was an error fetching the data",
+    "tag-new-film": "The latest movies",
+    "see-now": "شاهد الأن",
+    "title-choice": "watch now",
+    "no-content": "This content is not currently available"
+}

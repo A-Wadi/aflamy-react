@@ -1,0 +1,74 @@
+{
+    "aflam": [{
+            "id": "1",
+            "TitleEn": "Batman Movie",
+            "TitleAr": "فيلم باتمان",
+            "Year": 1989,
+            "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_.jpg",
+            "BigPoster": "https://www.slashfilm.com/img/gallery/the-batman-release-date-and-more/intro-1629849970.jpg",
+            "DescriptionEn": "During his second year of fighting crime, Batman pursues the Riddler, a serial killer who targets elite Gotham City citizens.[2] He uncovers corruption that connects to his own family during the investigation, and is forced to make new allies to catch the Riddler and bring the corrupt to justice.",
+            "DescriptionAr": "خلال سنته الثانية في محاربة الجريمة ، يلاحق باتمان ريدلر ، قاتل متسلسل يستهدف نخبة مواطني مدينة جوثام. يكتشف الفساد الذي يربط أسرته أثناء التحقيق ، ويضطر إلى تكوين حلفاء جدد للقبض على Riddler وتقديم الفاسدين إلى العدالة.",
+            "Rating": 5,
+            "LinkVideo": "https://imdb-video.media-imdb.com/vi940246809/1434659607842-pgv4ql-1563625128575.mp4?Expires=1641775862&Signature=lSmaOYyurhfSBA5JZBgpOhXvBB-qClTCPCbzv1EbPILMpsaJmE6jZjKYmZQ8Me6TY3n~W7WN1HDDc1J3FO4Sp1iqRnqDKOwT--dtZibVoLujmvWd5fSeI~BYxTYm~-iiZP8S~NHkxrFgsQ-vJAXZcjEkKjK9tQCMp18NWWebWFWSbdaT0L4F3m4V881k~0RKwzuyIERs47u~qN-bAiFTdHH-FVzKORn~xurw6g1-TP4jfyjO35j~Ru7kgEOwB-jxFiL1fT~vV9s9FokGG2x8CCwkR1~dz3na3T-RAZN5OE7qrBTS6DxZBwzjOSH2HOYajbLQjTVF7U~qCGCAlJzB9Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+        },
+        {
+            "id": "2",
+            "TitleEn": "The Dark Knight Movie",
+            "TitleAr": "فيلم فارس الظلام",
+            "Year": "2008",
+            "Poster": "https://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "BigPoster": "https://i.pinimg.com/736x/81/c9/e5/81c9e59f12e05add26b5541a9fe807e5.jpg",
+            "DescriptionEn": "Nolan's inspiration for the film was the Joker's comic book debut in 1940, the 1988 graphic novel The Killing Joke, and the 1996 series The Long Halloween, which retold Harvey Dent's origin. The Dark Knight nickname was first applied to Batman in Batman #1 (1940), in a story written by Bill Finger.[4][5] The Dark Knight was filmed primarily in Chicago.",
+            "DescriptionAr": "كان مصدر إلهام نولان للفيلم هو ظهور الكتاب الهزلي لجوكر لأول مرة في عام 1940 ، والرواية المصورة عام 1988 The Killing Joke ، وسلسلة 1996 The Long Halloween ، التي أعادت سرد أصل هارفي دنت. تم تطبيق لقب Dark Knight لأول مرة على Batman في Batman # 1 (1940) ، في قصة كتبها Bill Finger. تم تصوير فيلم Dark Knight بشكل أساسي في شيكاغو.",
+            "Rating": 3,
+            "LinkVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+            "id": "3",
+            "TitleEn": "Batman v Superman: Dawn of Justice Movie",
+            "TitleAr": "باتمان ضد سوبرمان: فيلم فجر العدل",
+            "Year": "2016",
+            "Poster": "https://ia.media-imdb.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "BigPoster": "https://i.guim.co.uk/img/media/67d0eadeb4cdce6d2ddacdf4faa8f3c3b630a811/0_80_3000_1802/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=f39071145c8494d76603abe505646353",
+            "DescriptionEn": "Batman v Superman: Dawn of Justice premiered at the Auditorio Nacional in Mexico City on March 19, 2016, and was released in the United States on March 25, 2016, in 2D, 3D, premium large formats, and 70 mm prints by Warner Bros. Pictures. Following a strong debut that set new box office records, the film experienced a historic drop in its second weekend and never recovered.",
+            "DescriptionAr": "باتمان ضد سوبرمان: Dawn of Justice تم عرضه لأول مرة في Auditorio Nacional في مكسيكو سيتي في 19 مارس 2016 ، وتم إصداره في الولايات المتحدة في 25 مارس 2016 ، بتنسيقات ثنائية وثلاثية الأبعاد وكبيرة ممتازة وطبعات 70 مم بواسطة Warner Bros الصور. بعد ظهوره الأول القوي الذي سجل أرقامًا قياسية جديدة في شباك التذاكر ، شهد الفيلم انخفاضًا تاريخيًا في عطلة نهاية الأسبوع الثانية ولم يتعافى أبدًا.",
+            "Rating": 5,
+            "LinkVideo": "https://imdb-video.media-imdb.com/vi1946858521/1434659607842-pgv4ql-1464895181083.mp4?Expires=1641776224&Signature=IySrSedE31hEi5QVpDyNh1rm1xRw4yg9G1R8gqUCOIeQZbByzZc36pzBSTwIyyi7TlxZZjTbkBJwYQOwErZhjF~Z5AYcrCqdFfEuIblK1sZyyC951hqWO4lY~cVzkPg49Y3k~H17l2rrJA-cpk6WJedakkPCCURKpjs5~BQ3IF~96GNlyATy9VVGGGGn~I05qgtE1rONv-AIHOK6ZxpON9A-3L4X3aTm7yJ7Uv3zhUJ9yUFbDHrxBKBDbI-LUmh~2zFhF754YGFVkzw0GRRe8FsBj5uSQfaokemUvQuYzCeIF8JCyatuKO0wg7y6nyVth3phqTU8MOVWRh3ZqlFgwg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+        },
+        {
+            "id": "4",
+            "TitleEn": "The Dark Knight Rises Movie",
+            "TitleAr": "فيلم فارس الظلام يرتفع",
+            "Year": "2012",
+            "Poster": "https://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "BigPoster": "https://i.ytimg.com/vi/ay-Xg1oTeAs/maxresdefault.jpg",
+            "DescriptionEn": "Christopher Nolan was hesitant about returning to the series for a third film, but agreed after developing a story with his brother and Goyer that he felt would conclude the series on a satisfactory note. Nolan drew inspiration from Bane's comic book debut in the 1993.",
+            "DescriptionAr": "كان كريستوفر نولان مترددًا في العودة إلى المسلسل لفيلم ثالث ، لكنه وافق بعد تطوير قصة مع شقيقه وجوير أنه شعر أنه سيختتم المسلسل بملاحظة مرضية. استلهم نولان من كتابه الهزلي لأول مرة في عام 1993.",
+            "Rating": 5,
+            "LinkVideo": "https://imdb-video.media-imdb.com/vi144884505/1434659607842-pgv4ql-1632113142638.mp4?Expires=1641776315&Signature=fdfzbGegu~bXq8AU0~Xx6pRElqAxRa22JRtj~1m5qmZ5vMFbwjwhQrtpAvh5iC2T9EmzhPvzxphz5IYVLvX53KARt2LpM6~sQXBiSZEtLy1iuccotAZSdz4EpZ6I41nkMppqwLyS-coNbXXSVs3DkucDoT7klXaACQ9A7kThE4NGe~fswkVuauPDntWinIQXFAv5MgEVI1qO6Uz0GeAOq60EYRytDoicTVPq0QYbwI-ynop2jyNyvd4YBP6dWqGYYWysoo9gozLBI7QccFLd24yozWo-wuUCLcr53cpzM~epeBbj7UXX0qXYEtM39XOhyiQwVkHb4zSdBQXCDgSR7A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+        },
+        {
+            "id": "5",
+            "TitleEn": "Batman Begins Movie",
+            "TitleAr": "فيلم باتمان يبدأ",
+            "Year": "2005",
+            "BigPoster": "https://www.avforums.com/styles/avf/editorial/block//cd5b31a8332204f8250c197f867409a0_3x3.jpg",
+            "DescriptionEn": "Nolan and Goyer began development on the film in early 2003. Aiming for a darker, more realistic tone compared to the previous films, a primary goal for their vision was to engage the audience's emotional investment in both the Batman and Bruce Wayne identities of the lead character. The film, which was principally shot in the United Kingdom, Iceland and Chicago.",
+            "DescriptionAr": "بدأ نولان وجوير تطوير الفيلم في أوائل عام 2003. بهدف الحصول على نغمة أكثر قتامة وواقعية مقارنة بالأفلام السابقة ، كان الهدف الأساسي لرؤيتهما هو إشراك الجمهور في الاستثمار العاطفي في كل من هويتي باتمان وبروس واين للبطولة حرف. الفيلم الذي تم تصويره بشكل أساسي في المملكة المتحدة وأيسلندا وشيكاغو.",
+            "Rating": 4,
+            "LinkVideo": "https://imdb-video.media-imdb.com/vi362988313/1434659607842-pgv4ql-1632111701604.mp4?Expires=1641776493&Signature=UDxQIJkUN74ylW37mzln2VIsNd3J16Zmp7rDyA~fNcf9MbUWUoK2MWL~jJEGh~DClYAF1dSI4X5lctc5oDp5Qp76-A8PU~VfHkgUj-xOiVtubvuPhASb~LbUNAJ0luZsyxynhT8z4WhxIJAO17wbgi20U7cgDzt5uZq7nNiMJbSZp~Ucf2Z3s4Wbs50dQDKzQYKXrnaA6zj~0iVQP8VZWyGrYs81liCeY8clI2lhbdMFDXo2SVZfmgDAVxxceqSGwiNyi~cfhwVhCgTi~hsKU-F3EieZ-UrQduXHCz1OGRmUikH~qQ8~chideCulQA0UwtLNtu-zWk9ESWclkCRX5Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+        },
+        {
+            "id": "6",
+            "TitleEn": "The LEGO Batman Movie",
+            "TitleAr": "فيلم ليغو باتمان",
+            "Year": 2017,
+            "Poster": "https://ia.media-imdb.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+            "BigPoster": "https://i.ytimg.com/vi/neY2xVmOfUM/maxresdefault.jpg",
+            "DescriptionEn": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally    adopted a teenage orphan who wishes to become his sidekick.",
+            "DescriptionAr": "يجب أن يتعامل بروس واين الأكثر برودة من أي وقت مضى مع المشتبه بهم المعتادين وهم يخططون لحكم مدينة جوثام ، بينما يكتشفون أنه تبنى بطريق الخطأ يتيمًا مراهقًا يرغب في أن يصبح صديقه.",
+            "Rating": 4,
+            "LinkVideo": "https://imdb-video.media-imdb.com/vi466269721/1434659607842-pgv4ql-1481506011447.mp4?Expires=1641776588&Signature=mlVLl5LCzKyQbIlu7gH8HarvRiBhVEZ3nSRsCsyMJwCjZBxdASFihsX~8XufSEmsOeNO29zyqoSmsrFUabsm8y45uz6pwbNW5VOrpkCpKsgxDjnYehP-bcUi1ND-7xN9gJQUur81Wm9z07G3SFqKWtrsg1eAuu4g94f1XqlrYFEJ66w2kpiCUQdx2nxSaSU71tuwa6-MjcLNwZa08zik4Ur7fO8eHoIQUtn7AtJSXOReEav0BbcwpHrzFxvaXyxAlBCRPcQ7SFiLh81gY5rJFpABHPdTym-HOSwvCmiphzSMsThYX1YQHxBqv907Q~rujGCxt4zSRsmsDQXsdwdM0w__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+        }
+    ]
+}
